@@ -1,0 +1,1 @@
+Create a new Expo app, install only `expo-camera`, and use its built-in `CameraView` with `onBarcodeScanned` to detect QR codes instantly, then display the scanned result on screen and optionally open it using `Linking.openURL`, which gives you a fast, native-level QR scanner without extra libraries or complex setup.
